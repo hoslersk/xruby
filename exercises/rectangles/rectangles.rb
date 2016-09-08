@@ -1,3 +1,5 @@
-def rectangles
+class Rectangle
 
 end
+
+
